@@ -1,5 +1,6 @@
 # daglog
-a little python project that is like a personal diary, where you can write stuff and then encrypt it using a numeric key, and then decrypt using the inverse key.
+A little python project that is like a personal diary, where you can write stuff and then encrypt it using a numeric key, and then decrypt using the inverse key.
+I used .bat to make the execution file because I don't know how to make it by other way.
 
 commands:
 - mklog: creates a log inside logs folder. after the command, you input the name, then the text and then the key.
@@ -20,4 +21,4 @@ usage example:
 - #(prints the decrypted text)
 
 
-I wanted to make it a bit hard to use, so only those who knows will be able to do so.
+I wanted to make it a bit hard to use, so only those who know will be able to do so.
